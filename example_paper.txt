@@ -1,0 +1,350 @@
+Polymer
+Chemistry
+COMMUNICATION
+Cite this: Polym. Chem., 2020, 11,
+4968
+Received 6th June 2020,
+Accepted 15th July 2020
+DOI: 10.1039/d0py00823k
+rsc.li/polymers
+Tailoring polymer dispersity by mixing chain
+transfer agents in PET-RAFT polymerization†
+Kostas Parkatzidis,
+‡a Nghia P. Truong,
+‡a Maria Nefeli Antonopoulou,a
+Richard Whitﬁeld,
+a Dominik Konkolewicz
+b and Athina Anastasaki
+*a
+Here we report a simple and versatile batch methodology to tailor
+polymer dispersity utilizing PET-RAFT polymerization. By mixing
+two chain transfer agents (CTAs) possessing diﬀerent transfer con-
+stants (a higher and a lower transfer constant CTA) in diﬀerent
+ratios, control over the dispersity (Đ = 1.08–1.82) can be achieved
+for a range of monomer classes including methacrylates, acrylates
+and acrylamides while maintaining monomodal molecular weight
+distribution. The high end-group ﬁdelity of both low and high dis-
+persity macroCTAs was conﬁrmed by the synthesis of block copo-
+lymers. In contrast to previously developed photo-mediated meth-
+odologies, we show that PET-RAFT exhibits perfect temporal
+control for all targeted dispersities regardless of the percentage of
+the lower transfer constant CTA employed. Other beneﬁts of the
+approach include the use of visible light irradiation, ppm concen-
+trations of a photo-redox catalyst and the possibility to manipulate
+Đ in the absence of external deoxygenation methodologies, which
+signiﬁcantly simplify the process.
+Reversible deactivation radical polymerization (RDRP) has sig-
+nificantly contributed to the evolution of modern polymer
+chemistry by providing access to
+a range of
+polymeric
+materials with controlled molecular weight, architecture, func-
+tionality and dispersity (Đ) from a range of functional
+groups.1–4 In particular, Đ (as a measure of the breadth of the
+molecular weight distribution) is an important parameter to
+control as it determines the polymer properties.5,6 For many
+years, the main target of RDRP methodologies was the syn-
+thesis of low Đ polymers while materials of higher Đ were con-
+sidered less desirable and often associated with low living-
+ness.7 However, a number of studies have recently revealed
+that both low and high Đ polymers possess interesting and
+complementary properties and as such developing new strat-
+egies to tailor molecular weight distribution is highly desirable
+and a current challenge in polymer chemistry.8,9 The tra-
+ditional method to tune polymer dispersity is blending of pre-
+synthesized polymers of diﬀerent molecular weights.10–13
+Despite the simplicity of this method and the possibility to
+obtain a wide range of Đs, it can be time-consuming and often
+leads to multimodal molecular weight distribution. In 2016,
+Fors and co-workers reported an elegant engineering approach
+to tune molecular weight distribution, whereby the relative
+rate of initiation to propagation was controlled through
+gradual feeding of an initiator during the nitroxide mediated
+polymerization of styrene yielding materials with various
+Đs.14–16 The same approach was also successfully applied to
+anionic
+polymerization.17
+In
+an
+alternative
+methodology,
+Boyer, Xu and co-workers cleverly controlled the molecular
+weight distribution through flow polymerization by carefully
+adjusting the flow rates, chemical compositions and residence
+times.18,19 More recently, Goto’s group developed an innovative
+temperature selective method where diﬀerent amounts of
+butyl acrylate were added during the reversible complexation
+mediated polymerization of methyl methacrylate, achieving
+good control over the dispersity of a range of architectures.20
+In another report, Matyjaszewski and co-workers eﬃciently
+tuned the catalyst concentration in atom transfer radical
+polymerization (ATRP) to aﬀord polymers with tailored Đs.21
+Other examples to tailor polymer dispersity include the use of
+reducing agents, photochromic initiators, flow chemistry and
+termination agents.22–26 Despite the well-recognized benefits
+of utilizing light as an external stimulus (e.g. wide availability,
+non-invasiveness etc.),27–30 perfect temporal control for a wide
+range of targeted Đs has not been demonstrated by any photo-
+polymerization method.31–34 For instance, in photo-ATRP,
+complete cessation of the polymerization in the absence of
+light irradiation could only be achieved for very high dispersity
+values (Đ ∼1.80), while for lower and intermediate Đs, imper-
+fect temporal control has been reported.32,35 RAFT, on the
+†Electronic supplementary
+information (ESI)
+available: Experimental pro-
+cedures, detailed polymerization results, and SEC and NMR data. See DOI:
+10.1039/d0py00823k
+‡These authors contributed equally to the work.
+aLaboratory of Polymeric Materials, Department of Materials, ETH Zurich, Vladimir-
+Prelog-Weg 5, Zurich, Switzerland. E-mail: athina.anastasaki@mat.ethz.ch
+bDepartment of Chemistry and Biochemistry, Miami University, Oxford, Ohio 45056,
+USA
+4968 | Polym. Chem., 2020, 11, 4968–4972
+This journal is © The Royal Society of Chemistry 2020
+Published on 15 July 2020. Downloaded by Thueringer Universitats Landesbibliothek Jena on 5/23/2025 9:23:38 AM.
+View Article Online
+View Journal | View Issue
+
+
+
+other hand, can exhibit perfect temporal control for low Đs but
+the capability of the technique to maintain excellent temporal
+control for intermediate and high Đs has not been explored. In
+addition, broadening the molecular weight distribution often
+leads to disagreement between theoretical and experimental
+molecular
+weights,
+which
+has
+been
+attributed
+to
+slow
+initiation in ATRP.32 It is also noted that in many methods,
+multimodal molecular weight distribution and low end-group
+fidelity compromise the potential applications of the resulting
+materials.25,36 Last but not least, the vast majority of reported
+strategies require tedious external deoxygenation, e.g. freeze–
+pump–thaw cycles, nitrogen bubbling, etc. We envisaged that
+we could address many of the aforementioned issues by com-
+bining the benefits of photoinduced electron transfer revers-
+ible
+addition–fragmentation
+chain
+transfer
+(PET-RAFT)
+polymerization with a recent publication from our group
+where traditional thermal RAFT polymerization was employed
+to tailor polymer Đs by mixing diﬀerent chain transfer
+agents.37 Key to this mixing approach is the selection of two
+suitable CTAs with diﬀerent transfer constants, of which the
+one with the higher transfer constant would aﬀord polymers
+with low Đ and that with the lower transfer constant would
+lead to broader molecular weight distribution. The two
+selected CTAs would be then mixed in various ratios to allow
+the synthesis of polymers exhibiting a wide range of Đs. If suc-
+cessful, our work would represent the first example of a batch
+PET-RAFT methodology where polymer Đ can be tailored on
+demand. Additional benefits would arise from the possibility
+to achieve perfect temporal control for any targeted dispersity,
+the use of visible light irradiation and ppm concentrations of
+the catalyst as well as the opportunity to conduct the reactions
+in the absence of any external deoxygenation. It is noted that
+our mixed RAFT agent system is fundamentally diﬀerent from
+the mixed ligand system previously employed by Percec and
+co-workers in copper-mediated polymerizations where an
+acceleration of the polymerization rate was observed (rather
+than a change in the attained dispersity).38,39 A list of all
+reagents employed in this study is presented in Scheme 1. To
+explore the possibility of PET-RAFT polymerization to tailor
+polymer dispersity in batches, methyl methacrylate (MMA) was
+used as a model monomer, Eosin Y (EY) as a photo-redox cata-
+lyst and DMSO as a solvent, following the pioneering work by
+Boyer and co-workers, using blue light LED irradiation (12 W,
+λmax = 465 ± 5 nm) in a homemade box (Fig. S1†).40,41 4-Cyano-
+4-(phenylcarbonothioylthio)pentanoic
+acid
+(CTA
+1)
+was
+selected as a high transfer constant CTA (Scheme 1), because it
+is a widely used CTA to polymerize methacrylate monomers
+owing to the stabilization of the intermediate radical oﬀered
+by the phenyl Z group.
+Indeed, polymerization of MMA under the aforementioned
+conditions led to well-defined PMMA with narrow molecular
+weight distribution (Đ ∼1.10, Mn = 22 700) (Fig. 1a, Table S1†
+entry 5). Instead, the selection of the low transfer constant CTA
+is much more challenging. To select a suitably low transfer
+constant CTA, the following three main criteria were con-
+sidered. Firstly, the chosen CTA should allow for the synthesis
+of polymers of suﬃciently high Đ (>1.5 to resemble values typi-
+cally obtained during free radical polymerization). Secondly, it
+should allow monomodal molecular weight distribution to be
+targeted while maintaining high livingness. Last but not least,
+an “ideal” low transfer constant CTA should not compromise
+the agreement between theoretical and experimental mole-
+cular weights or lead to slow polymerization. To satisfy these
+requirements, 2-cyanobutan-2-yl 4-chloro-3,5-dimethyl-1H-pyr-
+azole-1-carbodithioate (CTA 2) was selected as the low transfer
+constant CTA. By using CTA 2 to polymerize MMA, fairly
+broad, yet monomodal, molecular weight distribution was
+achieved (Đ ∼1.72) (Fig. 1a, Table S1† entry 1). By varying the
+ratio between CTA 1 and CTA 2, any intermediate Đ could be
+obtained (Đ ∼1.08–1.72) (Fig. 1a and S2,† Tables S1 and 2†).
+For instance, when 70% of high transfer constant CTA 1 and
+30% of low transfer constant CTA 2 were mixed, a dispersity of
+1.23 could be attained. To target higher dispersity values, the
+amount of CTA 2 was increased to 60% and 90%, yielding Đ ∼
+1.36 and Đ ∼1.57, respectively (Fig. 1a, Table S1†, entries 2
+and 3). Importantly, similar dispersity values could be attained
+at diﬀerent monomer concentrations (1 : 1, 1 : 3, 1 : 5 and
+1 : 10 monomer to solvent) (Fig. S3†). These initial experiments
+demonstrate that by simply mixing 2 commercially available
+CTAs, polymers with a range of Đs can be synthesized through
+PET-RAFT polymerization. The livingness of the synthesized
+materials was subsequently investigated. Upon addition of a
+second aliquot of MMA, eﬃcient chain extension could be per-
+formed. In particular, a macroCTA with an intermediate dis-
+persity (Đ = 1.37, Mn = 10 300) was successfully chain extended
+reaching higher molecular weights (Mn = 26 800) and main-
+taining a relatively constant dispersity (Đ = 1.33) (Fig. 1b and
+S4, S5†). In situ chain extension from the highest dispersity
+PMMA synthesized through the exclusive use of CTA 2 was also
+possible (Fig. S6†). Importantly, in all cases, fairly good agree-
+ment between experimental and theoretical molecular weights
+could be maintained (Table S1 and 2†). The preparation of
+block copolymers was also possible. Starting from a PMMA
+with Đ = 1.37 (Mn = 10 300), a well-defined P(MMA-b-BMA)
+could be synthesized with the molecular weight distribution
+Scheme 1
+Summary of reagents employed in this study.
+Polymer Chemistry
+Communication
+This journal is © The Royal Society of Chemistry 2020
+Polym. Chem., 2020, 11, 4968–4972 | 4969
+Published on 15 July 2020. Downloaded by Thueringer Universitats Landesbibliothek Jena on 5/23/2025 9:23:38 AM.
+View Article Online
+
+
+
+shifting clearly to higher molecular weights (Mn = 21 400, Đ ∼
+1.35) (Fig. 2a and S7†). In a similar vein, a high dispersity
+PMMA (Đ ∼1.64) could be eﬃciently chain extended in situ
+with methyl vinyl ketone (MVK) yielding a block copolymer
+with a final dispersity of 1.50 (Fig. 2b and S8†). These results
+highlight that high livingness can be maintained regardless of
+the initial dispersity of the macroCTA.
+One significant advantage of PET-RAFT polymerization is
+the use of visible light as a stimulus to initiate and mediate
+the polymerization. To investigate the possibility of temporal
+control in our system, “on–oﬀ” experiments were designed and
+special emphasis was given to long “oﬀ” periods (i.e. > 10 h) to
+ensure accuracy and to eliminate experimental error.42 When
+targeting intermediate dispersities (CTA 1 : CTA 2 ∼35 : 65, Đ =
+1.24–1.33), our kinetics showed that Mn grows linearly with
+conversion and the polymerization can completely cease
+during dark periods (Fig. 3a and c). This is in contrast to
+photo-ATRP where cessation of polymerization was only poss-
+ible at extremely high Đs, while for lower and intermediate Đs,
+the reaction continued in the absence of light irradiation,
+albeit at a slower rate.32,35 In addition, when targeting higher
+Đs through our approach (CTA 2 only, Đ = 1.64–1.72), a non-
+linear molecular weight evolution was observed with the Mn
+reaching relatively high values at low conversion (Fig. 3d).
+Significantly, complete cessation of the polymerization during
+the “oﬀ” periods could also be achieved when only CTA 2 was
+employed (Fig. 3b), thus demonstrating that PET-RAFT oﬀers
+excellent temporal control for the entire range of targeted Đs.
+To the best of our knowledge, this is the first example where
+perfect temporal control has been demonstrated for any tar-
+geted dispersity.
+Fig. 2
+SEC analysis of block copolymers formed from (a) mixed CTAs
+P(MMA-b-PBMA) and (b) only CTA 2 P(MMA-b-PMVK).
+Fig. 3
+“ON/OFF” study for PET-RAFT polymerization of MMA: (a) ln
+([M]0/[M]t) vs. time of exposure, CTA 1 : CTA 2 ratio 35 : 65%; (b) ln([M]0/
+[M]t) vs. time of exposure, only CTA 2; (c) molecular weights and Mw/Mn
+vs. conversion, CTA 1 : CTA 2 ratio 35 : 65%; and (d) molecular weights
+and Mw/Mn vs. conversion, only CTA 2.
+Fig. 1
+SEC analysis of the polymerization of MMA, illustrating (a) the variation in dispersity as CTA 1 and CTA 2 are mixed in diﬀerent ratios (aligned
+by the Mp value) and (b) a chain extension of a PMMA macroCTA prepared with 10% CTA 1 and 90% CTA 2 with MMA.
+Communication
+Polymer Chemistry
+4970 | Polym. Chem., 2020, 11, 4968–4972
+This journal is © The Royal Society of Chemistry 2020
+Published on 15 July 2020. Downloaded by Thueringer Universitats Landesbibliothek Jena on 5/23/2025 9:23:38 AM.
+View Article Online
+
+
+
+Oxygen-tolerant polymerizations have recently received con-
+siderable attention as they eliminate the laborious task of con-
+ventional deoxygenation (e.g. freeze pump–thaw cycles, nitro-
+gen bubbling, etc.) oﬀering an inexpensive, fast and simple
+way to synthesize polymers without requiring a complex set-up
+or extensive training.43–47 In our previous investigation to tune
+polymer Đ all experiments were conducted under strict deoxy-
+genation conditions using thermal RAFT polymerization.37
+However, PET-RAFT oﬀers the opportunity for the polymeriz-
+ations to proceed without the need for external deoxygenation.
+Indeed, a range of diﬀerent Đs of PMMAs could be obtained
+by using mixtures of CTA 1 and CTA 2 in the absence of any
+external deoxygenation when the headspace was minimised to
+reduce the amount of oxygen present in the reaction vessel
+(Fig. S9 and Table S3†). It is highlighted that oxygen-tolerant
+polymerizations usually occurred in an ideal fashion when
+using DMSO as the solvent.46
+To examine the compatibility of our strategy with other
+monomer classes, we selected methyl acrylate (MA) as the next
+model monomer. Due to the change in monomer activity, a
+diﬀerent pair of CTAs was selected. As the high transfer con-
+stant CTA, 2-cyano-2-propyl dodecyl trithiocarbonate (CTA 3)
+was chosen, yielding PMA with Đ ∼1.11 (Mn = 23 400) (Fig. 4a
+and
+Table
+S4†
+entry
+5).
+2-Cyanopropan-2-yl
+N-methyl-N-
+(pyridin-4-yl)carbamodithioate (CTA 4) was utilized as the low
+transfer constant CTA allowing much broader molecular
+weight distribution to be achieved (Đ ∼1.52, Fig. 4a and
+Table S4† entry 1). By mixing CTA 3 with CTA 4 in diﬀerent
+ratios, any intermediate Đ could be targeted while ensuring
+monomodal
+distributions
+and
+good
+agreement
+between
+theoretical and experimental molecular weights (Fig. 4a and
+Table S4†). Our strategy was finally extended to acrylamides,
+where dimethyl acrylamide (DMA) could be polymerized suc-
+cessfully yielding various intermediate Đs upon mixing CTA 3
+(Đ
+∼
+1.10)
+with
+methyl
+2-[methyl(4-pyridinyl)carba-
+mothioylthio]propionate (CTA 5) (Đ ∼1.82) (Fig. 4b and
+Table S5†). Thus, our methodology demonstrated excellent
+compatibility with diﬀerent polymer classes.
+In summary, we reported the first example of a batch
+PET-RAFT polymerization methodology where excellent tem-
+poral control can be achieved for a wide range of targeted Đs.
+By mixing two CTAs of diﬀerent transfer constants, tuneable
+dispersities (Đ ∼1.08–1.82) can be attained while maintaining
+monomodal molecular weight distribution, good agreement
+between experimental and theoretical molecular weights and
+high livingness. The high end-group fidelity was verified
+through chain extensions and block copolymers yielding well-
+defined polymeric materials. The developed approach could
+also be performed in the absence of any external deoxygena-
+tion method, thus significantly simplifying the process and
+expanding the chemical toolbox for tuning polymer dispersity.
