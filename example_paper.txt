@@ -1,350 +1,340 @@
-Polymer
-Chemistry
-COMMUNICATION
-Cite this: Polym. Chem., 2020, 11,
-4968
-Received 6th June 2020,
-Accepted 15th July 2020
-DOI: 10.1039/d0py00823k
-rsc.li/polymers
-Tailoring polymer dispersity by mixing chain
-transfer agents in PET-RAFT polymerization†
-Kostas Parkatzidis,
-‡a Nghia P. Truong,
-‡a Maria Nefeli Antonopoulou,a
-Richard Whitﬁeld,
-a Dominik Konkolewicz
-b and Athina Anastasaki
-*a
-Here we report a simple and versatile batch methodology to tailor
-polymer dispersity utilizing PET-RAFT polymerization. By mixing
-two chain transfer agents (CTAs) possessing diﬀerent transfer con-
-stants (a higher and a lower transfer constant CTA) in diﬀerent
-ratios, control over the dispersity (Đ = 1.08–1.82) can be achieved
-for a range of monomer classes including methacrylates, acrylates
-and acrylamides while maintaining monomodal molecular weight
-distribution. The high end-group ﬁdelity of both low and high dis-
-persity macroCTAs was conﬁrmed by the synthesis of block copo-
-lymers. In contrast to previously developed photo-mediated meth-
-odologies, we show that PET-RAFT exhibits perfect temporal
-control for all targeted dispersities regardless of the percentage of
-the lower transfer constant CTA employed. Other beneﬁts of the
-approach include the use of visible light irradiation, ppm concen-
-trations of a photo-redox catalyst and the possibility to manipulate
-Đ in the absence of external deoxygenation methodologies, which
-signiﬁcantly simplify the process.
-Reversible deactivation radical polymerization (RDRP) has sig-
-nificantly contributed to the evolution of modern polymer
-chemistry by providing access to
-a range of
-polymeric
-materials with controlled molecular weight, architecture, func-
-tionality and dispersity (Đ) from a range of functional
-groups.1–4 In particular, Đ (as a measure of the breadth of the
-molecular weight distribution) is an important parameter to
-control as it determines the polymer properties.5,6 For many
-years, the main target of RDRP methodologies was the syn-
-thesis of low Đ polymers while materials of higher Đ were con-
-sidered less desirable and often associated with low living-
-ness.7 However, a number of studies have recently revealed
-that both low and high Đ polymers possess interesting and
-complementary properties and as such developing new strat-
-egies to tailor molecular weight distribution is highly desirable
-and a current challenge in polymer chemistry.8,9 The tra-
-ditional method to tune polymer dispersity is blending of pre-
-synthesized polymers of diﬀerent molecular weights.10–13
-Despite the simplicity of this method and the possibility to
-obtain a wide range of Đs, it can be time-consuming and often
-leads to multimodal molecular weight distribution. In 2016,
-Fors and co-workers reported an elegant engineering approach
-to tune molecular weight distribution, whereby the relative
-rate of initiation to propagation was controlled through
-gradual feeding of an initiator during the nitroxide mediated
-polymerization of styrene yielding materials with various
-Đs.14–16 The same approach was also successfully applied to
-anionic
-polymerization.17
-In
-an
-alternative
-methodology,
-Boyer, Xu and co-workers cleverly controlled the molecular
-weight distribution through flow polymerization by carefully
-adjusting the flow rates, chemical compositions and residence
-times.18,19 More recently, Goto’s group developed an innovative
-temperature selective method where diﬀerent amounts of
-butyl acrylate were added during the reversible complexation
-mediated polymerization of methyl methacrylate, achieving
-good control over the dispersity of a range of architectures.20
-In another report, Matyjaszewski and co-workers eﬃciently
-tuned the catalyst concentration in atom transfer radical
-polymerization (ATRP) to aﬀord polymers with tailored Đs.21
-Other examples to tailor polymer dispersity include the use of
-reducing agents, photochromic initiators, flow chemistry and
-termination agents.22–26 Despite the well-recognized benefits
-of utilizing light as an external stimulus (e.g. wide availability,
-non-invasiveness etc.),27–30 perfect temporal control for a wide
-range of targeted Đs has not been demonstrated by any photo-
-polymerization method.31–34 For instance, in photo-ATRP,
-complete cessation of the polymerization in the absence of
-light irradiation could only be achieved for very high dispersity
-values (Đ ∼1.80), while for lower and intermediate Đs, imper-
-fect temporal control has been reported.32,35 RAFT, on the
-†Electronic supplementary
-information (ESI)
-available: Experimental pro-
-cedures, detailed polymerization results, and SEC and NMR data. See DOI:
-10.1039/d0py00823k
-‡These authors contributed equally to the work.
-aLaboratory of Polymeric Materials, Department of Materials, ETH Zurich, Vladimir-
-Prelog-Weg 5, Zurich, Switzerland. E-mail: athina.anastasaki@mat.ethz.ch
-bDepartment of Chemistry and Biochemistry, Miami University, Oxford, Ohio 45056,
-USA
-4968 | Polym. Chem., 2020, 11, 4968–4972
-This journal is © The Royal Society of Chemistry 2020
-Published on 15 July 2020. Downloaded by Thueringer Universitats Landesbibliothek Jena on 5/23/2025 9:23:38 AM.
-View Article Online
-View Journal | View Issue
+1. Introduction
+Controlled radical polymerization methods enable the synthesis of
+polymers with controlled molecular weight, architecture, end-group fi­
+delity and dispersity.[1–10] For years, polymers exhibiting high
+livingness were considered to intrinsically also possess low dispersity
+values and vice versa following a common misconception that broad
+molar mass distributions must be associated with increased side re­
+actions. However, it has recently become evident that these two terms
+should not be related and high dispersity polymers can also display very
+high-end group fidelity.[11–14] Considering that both low and high
+dispersity polymers can be advantageous for a wide range of applica­
+tions[7,10,15–17] many groups have exploited engineering and chem­
+istry approaches to control dispersity as well as the shape of molar mass
+distributions.[12,18–28] Polymer blending, for example, is a traditional
+way to control polymer dispersity by synthesizing a range of polymers
+(e.g. 10–20 polymers) with different molecular weights and mixing
+them.[23,29,30] Although this methodology usually results in bimodal
+molar mass distributions, our group recently demonstrated that by
+simply mixing two polymers (one of high Đ and one of low Đ), any in­
+termediate dispersity value could be obtained with extremely high
+precision.[31] In 2016, Fors and co-workers introduced an exciting
+approach whereby the shape of the molar mass distributions could be
+efficiently controlled by leveraging the temporal regulation of initiation.
+[32,33] In particular, a syringe pump was utilized to gradually feed the
+initiating species in an already ongoing controlled polymerization
+resulting in shape-controlled distributions.[17,22,34,35] In an alterna­
+tive strategy, Guironnet’s group subsequently employed a computer-
+controlled tubular flow reactor providing a general route to designing
+polymer molar mass distributions through flow chemistry.[36] Boyer
+and co-workers also contributed to this direction by elegantly combining
+flow-mediated polymerization approaches with mathematical models to
+fully control the shape of molar mass distributions.[37–39]
+Chemistry strategies have also been developed to control polymer
+* Corresponding authors.
+Contents lists available at ScienceDirect
+European Polymer Journal
+journal homepage: www.elsevier.com/locate/europolj
+https://doi.org/10.1016/j.eurpolymj.2022.111326
+Received 13 May 2022; Received in revised form 31 May 2022; Accepted 1 June 2022
 
 
 
-other hand, can exhibit perfect temporal control for low Đs but
-the capability of the technique to maintain excellent temporal
-control for intermediate and high Đs has not been explored. In
-addition, broadening the molecular weight distribution often
-leads to disagreement between theoretical and experimental
-molecular
-weights,
-which
-has
-been
-attributed
-to
-slow
-initiation in ATRP.32 It is also noted that in many methods,
-multimodal molecular weight distribution and low end-group
-fidelity compromise the potential applications of the resulting
-materials.25,36 Last but not least, the vast majority of reported
-strategies require tedious external deoxygenation, e.g. freeze–
-pump–thaw cycles, nitrogen bubbling, etc. We envisaged that
-we could address many of the aforementioned issues by com-
-bining the benefits of photoinduced electron transfer revers-
-ible
-addition–fragmentation
-chain
-transfer
-(PET-RAFT)
-polymerization with a recent publication from our group
-where traditional thermal RAFT polymerization was employed
-to tailor polymer Đs by mixing diﬀerent chain transfer
-agents.37 Key to this mixing approach is the selection of two
-suitable CTAs with diﬀerent transfer constants, of which the
-one with the higher transfer constant would aﬀord polymers
-with low Đ and that with the lower transfer constant would
-lead to broader molecular weight distribution. The two
-selected CTAs would be then mixed in various ratios to allow
-the synthesis of polymers exhibiting a wide range of Đs. If suc-
-cessful, our work would represent the first example of a batch
-PET-RAFT methodology where polymer Đ can be tailored on
-demand. Additional benefits would arise from the possibility
-to achieve perfect temporal control for any targeted dispersity,
-the use of visible light irradiation and ppm concentrations of
-the catalyst as well as the opportunity to conduct the reactions
-in the absence of any external deoxygenation. It is noted that
-our mixed RAFT agent system is fundamentally diﬀerent from
-the mixed ligand system previously employed by Percec and
-co-workers in copper-mediated polymerizations where an
-acceleration of the polymerization rate was observed (rather
-than a change in the attained dispersity).38,39 A list of all
-reagents employed in this study is presented in Scheme 1. To
-explore the possibility of PET-RAFT polymerization to tailor
-polymer dispersity in batches, methyl methacrylate (MMA) was
-used as a model monomer, Eosin Y (EY) as a photo-redox cata-
-lyst and DMSO as a solvent, following the pioneering work by
-Boyer and co-workers, using blue light LED irradiation (12 W,
-λmax = 465 ± 5 nm) in a homemade box (Fig. S1†).40,41 4-Cyano-
-4-(phenylcarbonothioylthio)pentanoic
-acid
-(CTA
-1)
-was
-selected as a high transfer constant CTA (Scheme 1), because it
-is a widely used CTA to polymerize methacrylate monomers
-owing to the stabilization of the intermediate radical oﬀered
-by the phenyl Z group.
-Indeed, polymerization of MMA under the aforementioned
-conditions led to well-defined PMMA with narrow molecular
-weight distribution (Đ ∼1.10, Mn = 22 700) (Fig. 1a, Table S1†
-entry 5). Instead, the selection of the low transfer constant CTA
-is much more challenging. To select a suitably low transfer
-constant CTA, the following three main criteria were con-
-sidered. Firstly, the chosen CTA should allow for the synthesis
-of polymers of suﬃciently high Đ (>1.5 to resemble values typi-
-cally obtained during free radical polymerization). Secondly, it
-should allow monomodal molecular weight distribution to be
-targeted while maintaining high livingness. Last but not least,
-an “ideal” low transfer constant CTA should not compromise
-the agreement between theoretical and experimental mole-
-cular weights or lead to slow polymerization. To satisfy these
-requirements, 2-cyanobutan-2-yl 4-chloro-3,5-dimethyl-1H-pyr-
-azole-1-carbodithioate (CTA 2) was selected as the low transfer
-constant CTA. By using CTA 2 to polymerize MMA, fairly
-broad, yet monomodal, molecular weight distribution was
-achieved (Đ ∼1.72) (Fig. 1a, Table S1† entry 1). By varying the
-ratio between CTA 1 and CTA 2, any intermediate Đ could be
-obtained (Đ ∼1.08–1.72) (Fig. 1a and S2,† Tables S1 and 2†).
-For instance, when 70% of high transfer constant CTA 1 and
-30% of low transfer constant CTA 2 were mixed, a dispersity of
-1.23 could be attained. To target higher dispersity values, the
-amount of CTA 2 was increased to 60% and 90%, yielding Đ ∼
-1.36 and Đ ∼1.57, respectively (Fig. 1a, Table S1†, entries 2
-and 3). Importantly, similar dispersity values could be attained
-at diﬀerent monomer concentrations (1 : 1, 1 : 3, 1 : 5 and
-1 : 10 monomer to solvent) (Fig. S3†). These initial experiments
-demonstrate that by simply mixing 2 commercially available
-CTAs, polymers with a range of Đs can be synthesized through
-PET-RAFT polymerization. The livingness of the synthesized
-materials was subsequently investigated. Upon addition of a
-second aliquot of MMA, eﬃcient chain extension could be per-
-formed. In particular, a macroCTA with an intermediate dis-
-persity (Đ = 1.37, Mn = 10 300) was successfully chain extended
-reaching higher molecular weights (Mn = 26 800) and main-
-taining a relatively constant dispersity (Đ = 1.33) (Fig. 1b and
-S4, S5†). In situ chain extension from the highest dispersity
-PMMA synthesized through the exclusive use of CTA 2 was also
-possible (Fig. S6†). Importantly, in all cases, fairly good agree-
-ment between experimental and theoretical molecular weights
-could be maintained (Table S1 and 2†). The preparation of
-block copolymers was also possible. Starting from a PMMA
-with Đ = 1.37 (Mn = 10 300), a well-defined P(MMA-b-BMA)
-could be synthesized with the molecular weight distribution
-Scheme 1
-Summary of reagents employed in this study.
-Polymer Chemistry
-Communication
-This journal is © The Royal Society of Chemistry 2020
-Polym. Chem., 2020, 11, 4968–4972 | 4969
-Published on 15 July 2020. Downloaded by Thueringer Universitats Landesbibliothek Jena on 5/23/2025 9:23:38 AM.
-View Article Online
+European Polymer Journal 174 (2022) 111326
+2
+dispersity by manipulating important polymerization steps such as
+initiation and/or deactivation.[11,12,24,40,41] Such methods offer
+additional opportunities when compared to engineering alternatives as
+they often result in fairly monomodal molar mass distributions, do not
+require any specialized equipment (e.g. syringe pumps or specialized
+software), and are quite simple to implement. For instance, Maty­
+jaszewski and coworkers and our group independently regulated the
+deactivation step in atom transfer radical polymerization (ATRP) by
+simply varying the copper or iron catalyst concentration yielding ho­
+mopolymers with a wide range of dispersities and without compro­
+mising their end-group fidelity.[42–46] As the ATRP methods are rather
+limited in monomer scope[44,47], our group developed a straightfor­
+ward batch reversible addition-fragmentation chain-transfer (RAFT)
+polymerization method to tailor polymer dispersity for a range of
+monomer classes including (meth) acrylates, acrylamides and styrene as
+well as methacrylic acid, methyl vinyl ketone and vinyl acetate. This was
+Fig. 1. Tuning dispersity in block copolymers using a switchable RAFT agent.
+Fig. 2. The effect of varying the organic content concentration in the RAFT polymerization of DMA. SEC traces illustrate syntheses with various amounts of acid a) in
+the absence of organic solvent, b) with 20% organic solvent, c) with 50% organic solvent and d) with 80% organic solvent. Scatter plots illustrate the overall trends
+with dispersity changes plotted against e) organic content and f) acid concentration.
+M.-N. Antonopoulou et al.
 
 
 
-shifting clearly to higher molecular weights (Mn = 21 400, Đ ∼
-1.35) (Fig. 2a and S7†). In a similar vein, a high dispersity
-PMMA (Đ ∼1.64) could be eﬃciently chain extended in situ
-with methyl vinyl ketone (MVK) yielding a block copolymer
-with a final dispersity of 1.50 (Fig. 2b and S8†). These results
-highlight that high livingness can be maintained regardless of
-the initial dispersity of the macroCTA.
-One significant advantage of PET-RAFT polymerization is
-the use of visible light as a stimulus to initiate and mediate
-the polymerization. To investigate the possibility of temporal
-control in our system, “on–oﬀ” experiments were designed and
-special emphasis was given to long “oﬀ” periods (i.e. > 10 h) to
-ensure accuracy and to eliminate experimental error.42 When
-targeting intermediate dispersities (CTA 1 : CTA 2 ∼35 : 65, Đ =
-1.24–1.33), our kinetics showed that Mn grows linearly with
-conversion and the polymerization can completely cease
-during dark periods (Fig. 3a and c). This is in contrast to
-photo-ATRP where cessation of polymerization was only poss-
-ible at extremely high Đs, while for lower and intermediate Đs,
-the reaction continued in the absence of light irradiation,
-albeit at a slower rate.32,35 In addition, when targeting higher
-Đs through our approach (CTA 2 only, Đ = 1.64–1.72), a non-
-linear molecular weight evolution was observed with the Mn
-reaching relatively high values at low conversion (Fig. 3d).
-Significantly, complete cessation of the polymerization during
-the “oﬀ” periods could also be achieved when only CTA 2 was
-employed (Fig. 3b), thus demonstrating that PET-RAFT oﬀers
-excellent temporal control for the entire range of targeted Đs.
-To the best of our knowledge, this is the first example where
-perfect temporal control has been demonstrated for any tar-
-geted dispersity.
-Fig. 2
-SEC analysis of block copolymers formed from (a) mixed CTAs
-P(MMA-b-PBMA) and (b) only CTA 2 P(MMA-b-PMVK).
-Fig. 3
-“ON/OFF” study for PET-RAFT polymerization of MMA: (a) ln
-([M]0/[M]t) vs. time of exposure, CTA 1 : CTA 2 ratio 35 : 65%; (b) ln([M]0/
-[M]t) vs. time of exposure, only CTA 2; (c) molecular weights and Mw/Mn
-vs. conversion, CTA 1 : CTA 2 ratio 35 : 65%; and (d) molecular weights
-and Mw/Mn vs. conversion, only CTA 2.
-Fig. 1
-SEC analysis of the polymerization of MMA, illustrating (a) the variation in dispersity as CTA 1 and CTA 2 are mixed in diﬀerent ratios (aligned
-by the Mp value) and (b) a chain extension of a PMMA macroCTA prepared with 10% CTA 1 and 90% CTA 2 with MMA.
-Communication
-Polymer Chemistry
-4970 | Polym. Chem., 2020, 11, 4968–4972
-This journal is © The Royal Society of Chemistry 2020
-Published on 15 July 2020. Downloaded by Thueringer Universitats Landesbibliothek Jena on 5/23/2025 9:23:38 AM.
-View Article Online
+European Polymer Journal 174 (2022) 111326
+3
+achieved by mixing two RAFT agents with vastly different chain transfer
+constants in various ratios.[24,25]
+Several other chemistry approaches have also been developed
+including Goto’s work in exploiting a small amount of a co-monomer
+during reversible complexation-mediated polymerization[13] and
+Chiu’s work on utilizing photochromic initiators in cationic polymeri­
+zation.[14] One common limitation of many of the aforementioned
+methodologies is the challenge of achieving dispersity control in block
+copolymers and multiblock copolymers.[48–52] Our group was able to
+circumvent this by recently reporting the synthesis of sequence-
+controlled multiblocks with on-demand control over dispersity.[53]
+The key to our approach was the regulation of the activity of the chain
+transfer agent during RAFT polymerization. In particular, we leveraged
+a switchable RAFT agent, also referred to as a universal RAFT agent
+[54–56], allowing access to dispersity control in both homopolymers
+and multiblock copolymers while also achieving near-quantitative
+yields and very high livingness.[53] However, the effect of the organic
+solvent and the degree of polymerization on the final dispersity has yet
+to be investigated, limiting the scope of our approach (Fig. 1).
+2. Results and discussion
+2.1. Effect of increasing the organic content concentration
+For the initial experiments, methyl 2-[methyl(4-pyridinyl) carba­
+mothioylthio]propionate was used as the switchable RAFT agent,
+dimethylacrylamide (DMA) as a model monomer, 2-2′-azobis[2-(2-imi­
+dazoline-2-yl)propane] dichloride (VA-044) as the free radical initiator
+and dimethylformamide (DMF) as the organic solvent. Although
+depending on the organic content, a different amount of VA-044 is
+required to achieve quantitative monomer conversion (Figure S1) (i.e.
+the higher the water content the less free radical initiator is needed
+[51,57]), we consistently employed 0.1 equivalents with respect to the
+RAFT agent for all polymerizations to allow for a more meaningful
+comparison. The targeted degree of polymerization (DP) was set at 200
+and the monomer concentration was fixed at 20 v/v.
+Under the aforementioned conditions, the first polymerization was
+conducted in pure aqueous media and in the absence of added acid, (i.e.
+sulphuric acid) a broad, yet monomodal, molar mass distribution (Mn =
+23,400, Ɖ=1.58) was obtained with good agreement between theoret­
+ical and experimental molecular weight (Fig. 2a). A near-quantitative
+conversion was reached within 2 h as evident by 1H nuclear magnetic
+resonance (NMR) spectroscopy and the chain transfer agent was fully
+consumed according to the size exclusion chromatography (SEC) UV-
+detector (Figure S2). Upon replicating the experiment, albeit with
+0.25 equivalents of sulphuric acid, the dispersity was decreased to 1.52,
+while further increases in the amount of added acid (0.5, 1 and 1.5
+equivalents) led to gradually lower Ɖs (1.35, 1.20 and 1.16, respec­
+tively, Fig. 2a, Table S1). It is noted that a slight excess of acid was
+required to fully protonate the RAFT agent and reach the minimum Ɖ
+value due to the presence of DMA which elevates the initial pH value to
+approximately 9–10 (prior to the addition of acid).[55,58]
+Switching from aqueous media to a mixture of [DMF]:[H2O] = 1:4
+led to comparable data, although a higher excess of acid (i.e. 3 equiv­
+alents) was required to attain the lowest possible Ɖ (Fig. 2b, Table S2).
+Instead, when the polymerizations were performed in mixtures of
+[DMF]:[H2O] = 1:1, a higher Ɖ (~1.70) could be obtained when the
+deprotonated RAFT agent was utilized (Fig. 2c, Table S3). As such, a
+broader Ɖ range was possible under these conditions (1.23–1.70), thus
+highlighting an advantage of employing formulations with increased
+organic content. However, when the DMF percentage was increased
+further ([DMF]:[H2O] = 4:1), the lowest Ɖ that could be achieved was
+1.31 (6 equivalents of acid) and no further decrease was possible
+regardless of the amount of added acid (e.g. up to 12 equivalents,
+Fig. 2d-f, Table S4). Nevertheless, by increasing the organic content we
+pave the way for the potential control over the Ɖ of more hydrophobic
+monomers, thus significantly expanding the scope of the developed
+system. It is noted that for all the higher Ɖs attained, successful in-situ
+chain-extension experiments were conducted, revealing that very high
+livingness could be maintained (see section entitled effect of various
+Fig. 3. The effect of acid concentration on dispersity at various degrees of polymerization. SEC traces illustrate syntheses with various amounts of acid for a) DP50,
+b) DP100, c) DP200 and d) DP400. Scatter plots illustrate the overall trends with dispersity changes plotted against e) target DP and f) acid concentration. All
+reactions were performed in 80% organic media.
+M.-N. Antonopoulou et al.
 
 
 
-Oxygen-tolerant polymerizations have recently received con-
-siderable attention as they eliminate the laborious task of con-
-ventional deoxygenation (e.g. freeze pump–thaw cycles, nitro-
-gen bubbling, etc.) oﬀering an inexpensive, fast and simple
-way to synthesize polymers without requiring a complex set-up
-or extensive training.43–47 In our previous investigation to tune
-polymer Đ all experiments were conducted under strict deoxy-
-genation conditions using thermal RAFT polymerization.37
-However, PET-RAFT oﬀers the opportunity for the polymeriz-
-ations to proceed without the need for external deoxygenation.
-Indeed, a range of diﬀerent Đs of PMMAs could be obtained
-by using mixtures of CTA 1 and CTA 2 in the absence of any
-external deoxygenation when the headspace was minimised to
-reduce the amount of oxygen present in the reaction vessel
-(Fig. S9 and Table S3†). It is highlighted that oxygen-tolerant
-polymerizations usually occurred in an ideal fashion when
-using DMSO as the solvent.46
-To examine the compatibility of our strategy with other
-monomer classes, we selected methyl acrylate (MA) as the next
-model monomer. Due to the change in monomer activity, a
-diﬀerent pair of CTAs was selected. As the high transfer con-
-stant CTA, 2-cyano-2-propyl dodecyl trithiocarbonate (CTA 3)
-was chosen, yielding PMA with Đ ∼1.11 (Mn = 23 400) (Fig. 4a
-and
-Table
-S4†
-entry
-5).
-2-Cyanopropan-2-yl
-N-methyl-N-
-(pyridin-4-yl)carbamodithioate (CTA 4) was utilized as the low
-transfer constant CTA allowing much broader molecular
-weight distribution to be achieved (Đ ∼1.52, Fig. 4a and
-Table S4† entry 1). By mixing CTA 3 with CTA 4 in diﬀerent
-ratios, any intermediate Đ could be targeted while ensuring
-monomodal
-distributions
-and
-good
-agreement
-between
-theoretical and experimental molecular weights (Fig. 4a and
-Table S4†). Our strategy was finally extended to acrylamides,
-where dimethyl acrylamide (DMA) could be polymerized suc-
-cessfully yielding various intermediate Đs upon mixing CTA 3
-(Đ
-∼
-1.10)
-with
-methyl
-2-[methyl(4-pyridinyl)carba-
-mothioylthio]propionate (CTA 5) (Đ ∼1.82) (Fig. 4b and
-Table S5†). Thus, our methodology demonstrated excellent
-compatibility with diﬀerent polymer classes.
-In summary, we reported the first example of a batch
-PET-RAFT polymerization methodology where excellent tem-
-poral control can be achieved for a wide range of targeted Đs.
-By mixing two CTAs of diﬀerent transfer constants, tuneable
-dispersities (Đ ∼1.08–1.82) can be attained while maintaining
-monomodal molecular weight distribution, good agreement
-between experimental and theoretical molecular weights and
-high livingness. The high end-group fidelity was verified
-through chain extensions and block copolymers yielding well-
-defined polymeric materials. The developed approach could
-also be performed in the absence of any external deoxygena-
-tion method, thus significantly simplifying the process and
-expanding the chemical toolbox for tuning polymer dispersity.
+European Polymer Journal 174 (2022) 111326
+4
+organic solvents).
+2.2. Effect of targeting various degrees of polymerization
+We were subsequently interested to study how the degree of poly­
+merization (DP) would affect the Ɖ control. In a series of experiments,
+we targeted polymers with a DP of 50, 100, 200 and 400.
+The first reactions were conducted in organic/aqueous mixtures with
+an increased organic content ([DMF]:[H2O] = 4:1) and the results are
+summarized in Fig. 3. For DP = 50 and DP = 100 (Fig. 3a-b, Table S5-6),
+Ɖ ranges of 1.15–1.56 and 1.19–1.68 were obtained, respectively, when
+all polymerizations had reached very high monomer conversions. As can
+be concluded from the previous section, when targeting DP = 200, the
+minimum Ɖ achieved was 1.31 (Ɖ range is 1.31–1.76, Fig. 3c, Table S4).
+However, for DP = 400 no satisfactorily control over Ɖ was possible. In
+particular, even when 12 equivalents of acid were employed, the Ɖ
+could not drop below 1.58, thus highlighting the limitations of the
+system to control Ɖ at higher DPs (Fig. 3d, Table S7). This was attributed
+to the nature of the solvent which does not allow for the sufficient
+protonation of the RAFT agent.[59,60] To bypass this, we sought to
+increase the monomer concentration from 20% v/v to 50% v/v and
+indeed by minimizing the solvent content, a lower Ɖ could be achieved
+when identical acid equivalents were employed (when using 6 equiva­
+lents of acid the lowest Ɖ at 20% v/v was 1.31 and the value was further
+decreased to 1.23 at 50% v/v monomer concentration, Figure S3a&c,
+Table S4&S8). To fully circumvent this issue, we replicated the experi­
+ments in aqueous media (at 20% v/v). Pleasingly, excellent Ɖ control
+could be achieved not only for DP = 50 and DP = 100 but also for DP =
+200, DP = 400 and DP = 800 (Figure S4, Tables S1&S10-13). More
+specifically, the higher the DP, the wider the Ɖ range that could be
+obtained while more equivalents of acid were required to achieve the
+lowest possible Ɖ. In addition, when the RAFT agent was unprotonated,
+[55,58,61] a higher Ɖ could be obtained for higher DPs. For instance, for
+DP = 50 the Ɖ range was relatively narrow (1.14–1.49), and the lowest
+Ɖ was obtained when 1 equivalent of sulphuric acid was utilized while
+the unprotonated RAFT agent led to a Ɖ of 1.49. Instead, for DP = 800, a
+broader Ɖ range was achieved (1.22–1.67), the lowest Ɖ was attained at
+much higher acid concentrations (i.e. > 6 equivalents) and in the
+absence of acid a much higher Ɖ was displayed (i.e. 1.67). It is therefore
+apparent that much better control over Ɖ can be achieved in pure
+aqueous media for various targeted DPs. It is also noted that in contrast
+to DMF, when higher monomer concentrations were employed in water,
+(e.g. 50% v/v instead of 20% v/v) slightly higher Ɖs were obtained
+(Figure S3b&d, Table S9).
+2.3. Effect of various organic solvents
+Given the limitation of DMF to satisfactorily lower polymer Ɖ, a
+range of alternative solvents were also explored. First, high Ð PDMA was
+prepared (DP20) in a range of different solvents -such as H2O, DMF,
+dimethylacetamide (DMAc), dimethyl sulfoxide (DMSO), acetonitrile
+(ACN) and dioxane- and matrix-assisted laser desorption ionization
+time-of-flight mass spectroscopy (MALDI-ToF-MS) was performed to
+investigate the chain end-group fidelity of the syntheses (Fig. 4d-f&S5d-
+f). Pleasingly, in all cases, a single polymeric species was evidenced,
+corresponding to CTA functionalized PDMA, albeit with Li+, Na+ and K+
+adducts. This indicates that high end-group fidelity could be achieved
+for all solvents, even when high dispersity values were targeted. We also
+highlight that in these syntheses very low concentrations of free radical
+initiator were utilized (<0.03 equivalents w.r.t RAFT agent), so these
+peaks were not visible in the MALDI-ToF-MS.
+We therefore selected these solvents, in turn, so to investigate the
+effect of adding acid on the dispersity range obtainable in each medium
+(Tables S14-19, Figure S5). In a similar fashion to DMF, DMAc failed to
+yield very low Ɖ values, as even at 24 equivalents of acid the minimum Ɖ
+achieved was 1.36 (Figure S5b, Table S14). It is also noted that when
+these two solvents were employed, in combination with high acid con­
+centrations (>2 equivalents), a side reaction could be detected via 1H
+NMR whereby sulphuric acid reacted with the solvent thus leading to
+solvent degradation (Figure S6-8). This side reaction and the chain
+transfer to solvent constant of DMF could also be, partially, responsible
+for the higher dispersities obtained.[62] However, it is worth
+Fig. 4. The effect of solvent choice on the dispersity of homopolymers at various acid concentrations. SEC traces illustrate syntheses of DP200 in a) 100% water, b)
+80:20 ACN: water and c) 80:20 DMF: water. The analogous MALDI-ToF-MS data illustrates the results for homopolymers (DP20) with high dispersity synthesized d)
+in water e) 80:20 ACN: water and f) 80:20 DMF: water. All polymers correspond to DMA capped with CTA (C7H7N2S2)(CH2CHCON(CH3)2)12(C4H7O2)).
+M.-N. Antonopoulou et al.
+
+
+
+European Polymer Journal 174 (2022) 111326
+5
+mentioning that despite the side reaction, very high livingness could be
+maintained in both solvents as evident by successful in-situ chain
+extension experiments (Figure S10, Table S19).
+Dimethyl sulfoxide (DMSO) was then selected as a solvent
+(Figure S5c, Table S15). Although no side reaction was found in this
+solvent, the lowest Ɖ achieved was 1.23 when 20 equivalents of sul­
+phuric acid were employed. Nevertheless, a broad Ɖ range could be
+targeted (1.23–1.79) thus revealing the potential of this solvent, espe­
+cially considering that DMSO is a medium in which both hydrophilic and
+relatively hydrophobic monomers are soluble.[63,64] Dioxane also
+proved to be a suitable solvent for Ɖ control resulting in a broad Ɖ range
+(1.17–1.86) while the lowest possible Ɖ was attained in the presence of 4
+equivalents of acid (Figure S5a, Table S16). Perhaps the most promising
+organic medium was ACN (Fig. 4b, Table S17) as in the presence of just 2
+equivalents of acid a Ɖ of 1.19 could be obtained. The total range ach­
+ieved was also relatively broad (1.19–1.66) therefore establishing ACN
+as an excellent alternative to aqueous media. For a more meaningful
+comparison with the other solvents, when 2 equivalents of acid were
+used very high Ɖs were achieved for DMAc and DMF (1.66 and 1.55
+respectively), while DMSO and dioxane led to much lower Ɖs (1.37 and
+1.29 respectively). As such, it can be concluded that both ACN and water
+are very successful in controlling the Ɖ of homopolymers at low acid
+concentrations. Free radical polymerizations were also performed in
+these solvents and the result shows the maximum achievable molar mass
+obtained exceeded 200 kDa in all cases, which is higher than that of
+high-dispersity polymers made in the presence of unprotonated RAFT
+agent, confirming the polymerization is controlled under RAFT mecha­
+nism (Figure S11 and Table S20). Indeed, it should be highlighted that in
+pure ACN (rather than in 80:20 ACN: H2O) just 0.5 equivalents of acid
+were required to obtain a final polymer with a dispersity as low as 1.25,
+further exemplifying ACN as an effective alternative to water (Figure S9,
+Table S18). These results show that in order to achieve similar dis­
+persities, various amounts of acid were required to achieve the same
+protonation degree of the RAFT agent in different solvents (Fig. 4a-c,
+Figure S5a-c, Table S1, S4, S14-S17). To correlate the protonation state
+of the switchable RAFT agent in different media (e.g., deuterated DMSO
+and D2O), the chemical shift of pyrinidyl ring hydrogen of the RAFT
+agent was characterized by 1H NMR spectra (Figure S12).[56] It is
+shown that in deuterated DMSO higher equivalents of acid was needed
+to protonate the RAFT agent than in D2O. Despite the high amounts of
+acid added, the RAFT agent is stable in organic solvent (DMSO‑d6) while
+a small amount (0.8%) of the ester bonds of the RAFT agent R group was
+hydrolyzed (Figure S13-S15). Importantly, the Z-group of the RAFT
+agent was not influenced by the acid and therefore the polymer living­
+ness was not affected (Figure S17 & Table S24).
+2.4. Synthesis of Ɖ–controlled diblock and triblock copolymers with
+varying degrees of polymerization
+After establishing optimal conditions to control Ɖ in homopolymers,
+we were interested in assessing how the DP of the added second block
+would affect the final Ɖ of the diblock. To study this, we first synthesized
+three homopolymers at various DPs using the deprotonated RAFT agent
+(i.e. DP 50, DP = 100, DP = 200). We then varied the amount of
+monomer added for the second block (aiming for the second block to be
+composed of either DP = 25, or DP = 50, or DP = 100 or DP = 200) while
+utilizing an excess of acid which would enable the sufficient switch to a
+fully protonated macroCTA (Fig. 5, Table S21). In particular, when
+starting from a relatively low DP for the first block (DP = 50, initial Ɖ
+~1.50), the in-situ addition of DP = 25 or DP = 50 already led to a
+Fig. 5. The effect of the DP of the second block on the overall dispersity of diblock copolymers prepared by RAFT polymerization. In all cases the reactions were
+performed in pure water, with the CTA unprotonated for the first block and fully protonated for the second block. The DP of the first block was varied between 50 and
+200 and the DP of the second block was varied between 25 and 200. In all plots, the x-axis represents the molecular weight and the y-axis represents normalized dw/
+dlogM as obtained by SEC.
+M.-N. Antonopoulou et al.
+
+
+
+European Polymer Journal 174 (2022) 111326
+6
+significant decrease in the overall Ɖ of the diblock resulting in a final Ɖ
+of 1.32 and 1.21, respectively. By further increasing the DP of the second
+block to DP = 100 and DP = 200 even clearer shifts were observed by
+SEC and the Ɖ of the diblock was reduced to 1.17 and 1.16, respectively.
+Therefore, it can be concluded that a macroCTA of DP = 50 can be
+satisfactorily chain-extended to yield diblocks with narrow molar mass
+distributions upon the addition of a minimum DP of 50. A slightly
+different profile was observed when a macroCTA of DP = 100 (Ɖ=1.58)
+was employed. On this occasion, neither the addition of DP = 25 nor DP
+= 50 could dramatically reduce the Ɖ (Ɖ=1.41 and Ɖ =1.32, respec­
+tively). However, when the DP of the second block was increased to DP
+= 100 and DP = 200, narrow molar mass distributions could be obtained
+yielding diblocks with a Ɖ of 1.23 and 1.17 respectively. Upon repli­
+cating the experiments utilizing a DP = 200 macroCTA (Ɖ=1.59), we
+found that a diblock with Ɖ ~1.22 was only possible when 200 equiv­
+alents of monomers were added. Instead, upon targeting DP = 25, DP =
+50 and DP = 100 for the second block, only higher overall Ɖ diblock
+copolymers could be prepared (Ɖ=1.49, Ɖ=1.40 and Ɖ=1.30). From
+these experiments we can conclude the following:
+(i) The targeted DP of the second block can significantly affect the
+final Ɖ in diblock copolymers.
+(ii) The higher the DP of the added block, the lower the Ɖ of the
+diblock.
+(iii) The higher the DP of the starting macroCTA, the more monomer
+is required to be added to bring the overall Ɖ of the diblock down
+to ~ 1.2. This suggests that the efficient protonation of the
+macroCTA alone is not sufficient to control polymer Ɖ and that
+the length of the added block should also be considered.
+(iv) To target diblock copolymers with a wide range of Ɖ (i.e. a large
+difference between the dispersity of the homopolymers and the
+diblock copolymer), the length of the added block should be
+equal or higher to the length of the macroCTA (i.e. DPadded block ≥
+DPmacroCTA). To verify this was also the case for DP = 200, we did
+a control experiment whereby 300 equivalents of monomer were
+added during the in-situ chain extension and the overall Ɖ of the
+diblock could be further decreased to 1.19 (Figure S16,
+Table S22).
+Last, but not least, we applied the acquired knowledge in designing
+two triblock copolymers with alternating low and high Ɖ in both
+aqueous and organic media (ACN). Specifically, by using the fully pro­
+tonated RAFT agent, a homopolymer with a Ɖ of 1.17 (DP = 50) was first
+obtained. Upon adding 75 equivalents of the next monomer and in the
+presence of a base, we were able to increase the overall Ɖ of the diblock
+to 1.53 (Fig. 6, Figure S17, Table S23). Once the diblock reached
+quantitative monomer conversion, we added the next monomer together
+with acid and brought the Ɖ of the triblock down to 1.19. Pleasingly,
+very similar data could be attained in both solvent systems leading to
+well-defined triblock copolymers with remarkable control over their Ɖ
+(Fig. 6, Figure S17, Table S24).
