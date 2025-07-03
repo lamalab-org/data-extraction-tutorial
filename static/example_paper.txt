@@ -1,340 +1,335 @@
-1. Introduction
-Controlled radical polymerization methods enable the synthesis of
-polymers with controlled molecular weight, architecture, end-group fi­
-delity and dispersity.[1–10] For years, polymers exhibiting high
-livingness were considered to intrinsically also possess low dispersity
-values and vice versa following a common misconception that broad
-molar mass distributions must be associated with increased side re­
-actions. However, it has recently become evident that these two terms
-should not be related and high dispersity polymers can also display very
-high-end group fidelity.[11–14] Considering that both low and high
-dispersity polymers can be advantageous for a wide range of applica­
-tions[7,10,15–17] many groups have exploited engineering and chem­
-istry approaches to control dispersity as well as the shape of molar mass
-distributions.[12,18–28] Polymer blending, for example, is a traditional
-way to control polymer dispersity by synthesizing a range of polymers
-(e.g. 10–20 polymers) with different molecular weights and mixing
-them.[23,29,30] Although this methodology usually results in bimodal
-molar mass distributions, our group recently demonstrated that by
-simply mixing two polymers (one of high Đ and one of low Đ), any in­
-termediate dispersity value could be obtained with extremely high
-precision.[31] In 2016, Fors and co-workers introduced an exciting
-approach whereby the shape of the molar mass distributions could be
-efficiently controlled by leveraging the temporal regulation of initiation.
-[32,33] In particular, a syringe pump was utilized to gradually feed the
-initiating species in an already ongoing controlled polymerization
-resulting in shape-controlled distributions.[17,22,34,35] In an alterna­
-tive strategy, Guironnet’s group subsequently employed a computer-
-controlled tubular flow reactor providing a general route to designing
-polymer molar mass distributions through flow chemistry.[36] Boyer
-and co-workers also contributed to this direction by elegantly combining
-flow-mediated polymerization approaches with mathematical models to
-fully control the shape of molar mass distributions.[37–39]
-Chemistry strategies have also been developed to control polymer
-* Corresponding authors.
-Contents lists available at ScienceDirect
-European Polymer Journal
-journal homepage: www.elsevier.com/locate/europolj
-https://doi.org/10.1016/j.eurpolymj.2022.111326
-Received 13 May 2022; Received in revised form 31 May 2022; Accepted 1 June 2022
+Therefore, a structure−property study was performed to
+ascertain the transfection efficiency of triblock micelles with an
+ionic/hydrophilic shell containing ether (i) an anionic block
+followed by a cationic block or vice versa (ii) a cationic block
+followed by an anionic block. The core-forming hydrophobic
+block was based on poly(n-butyl acrylate) (PnBA), while the
+anionic copolymer block consisted of 2-carboxyethyl acryl-
+amide (CEAm) and hydrophilic NAM and the cationic block
+contained 3-guanidinopropyl acrylamide (GPAm). The
+combination of a pH-dependent anionic group with a pH-
+independent cationic group represents a novel approach to
+gene therapy, deviating from the conventional use of pH-
+dependent cationic groups. The formed micelles and
+micelleplexes were characterized regarding their physicochem-
+ical and biological behavior, and it was clearly observed that
+the anionic outer block provides advantages for their
+application in gene delivery.
+For the assembly of micelles, two sets of triblock copolymers
+were synthesized by sequential reversible addition−fragmenta-
+tion chain transfer (RAFT) polymerization (Figure 1A). For
+Figure 1. (A) Synthesis of the triblock copolymers HAC-g/c and HCA-g/c by RAFT polymerization and subsequent deprotection
+(X−:F3CCOO−). (B) Compositions of the six triblock copolymers are pictured in a bar diagram with the respective nBA, NAM, GPAm, and CEAm
+content in mol %.
+ACS Macro Letters
+pubs.acs.org/macroletters
+Letter
+https://doi.org/10.1021/acsmacrolett.3c00633
+ACS Macro Lett. 2024, 13, 158−165
+159
 
 
 
-European Polymer Journal 174 (2022) 111326
-2
-dispersity by manipulating important polymerization steps such as
-initiation and/or deactivation.[11,12,24,40,41] Such methods offer
-additional opportunities when compared to engineering alternatives as
-they often result in fairly monomodal molar mass distributions, do not
-require any specialized equipment (e.g. syringe pumps or specialized
-software), and are quite simple to implement. For instance, Maty­
-jaszewski and coworkers and our group independently regulated the
-deactivation step in atom transfer radical polymerization (ATRP) by
-simply varying the copper or iron catalyst concentration yielding ho­
-mopolymers with a wide range of dispersities and without compro­
-mising their end-group fidelity.[42–46] As the ATRP methods are rather
-limited in monomer scope[44,47], our group developed a straightfor­
-ward batch reversible addition-fragmentation chain-transfer (RAFT)
-polymerization method to tailor polymer dispersity for a range of
-monomer classes including (meth) acrylates, acrylamides and styrene as
-well as methacrylic acid, methyl vinyl ketone and vinyl acetate. This was
-Fig. 1. Tuning dispersity in block copolymers using a switchable RAFT agent.
-Fig. 2. The effect of varying the organic content concentration in the RAFT polymerization of DMA. SEC traces illustrate syntheses with various amounts of acid a) in
-the absence of organic solvent, b) with 20% organic solvent, c) with 50% organic solvent and d) with 80% organic solvent. Scatter plots illustrate the overall trends
-with dispersity changes plotted against e) organic content and f) acid concentration.
-M.-N. Antonopoulou et al.
+the multiblock synthesis, the chain transfer agent (CTA)
+(propanoic acid)yl butyl trithiocarbonate (PABTC) was used,
+since it has optimal addition and fragmentation rates for the
+polymerization of acrylates and acrylamides.36,37 The synthesis
+of multiblock copolymers with controlled molar masses can be
+challenging due to the accumulation of dead chains after each
+consecutive chain extension, leading to high dispersity (Đ).38
+This highlights the importance of maintaining a high
+proportion of chains with the thiocarbonylthio group
+throughout the polymerization. Since acrylates and acrylamides
+possess high propagation rate coefficients, the initiator
+concentration can be reduced while still achieving high
+monomer conversions, and thus, the fraction of living chains
+remains high.36,39 Furthermore, the azoinitiator V-65B was
+chosen, since it generates radicals at an optimal rate at lower
+temperatures (10 h half-time decomposition temperature of 51
+°C in toluene).40 First, nBA was polymerized at 50 °C in 1,4-
+dioxane to obtain P(nBA) as the first hydrophobic block (H)
+and macroCTA (Figure 1A). For the first set of triblock
+copolymers, P(nBA) was chain extended with tert-butyl-
+protected CEAm (CEAmtB) and NAM as the anionic block
+(A) obtaining P[(nBA)-b-(CEAmtB-co-NAM)], followed by a
+chain extension with diBoc-protected GPAm (GPAmdiBoc) as
+the cationic block (C), yielding P[(nBA)-b-(CEAmtB-co-
+NAM)-b-(GPAmdiBoc)] (HACpro, protected variant). For the
+second set of triblock copolymers, P(nBA) was first chain
+extended with GPAmdiBoc, followed by a chain extension with
+CEAmtB and NAM, obtaining P[(nBA)-b-(GPAmdiBoc)-b-
+(CEAmtB-co-NAM)] (HCApro, protected variant). The two
+sets each consisted of three triblock copolymers with a
+comparable degree of polymerization (DP) of the hydrophobic
+block (H, DP ≈80) and either (i) an anionic middle block
+followed by a cationic outer block or (ii) a cationic middle
+block followed by an anionic outer block (Table 1).
+Preliminary experiments with block copolymers showed that
+a molar amount of GPAm greater than 30 mol % and low
+amounts of CEAm are needed to achieve high transfection
+efficiencies, using NAM as a “stealth” moiety and for increased
+colloidal stability.41 Therefore, the amount of cationic GPAm
+(C) was varied between 30 and 37 mol %, while the amount of
+anionic CEAm (A) ranged from 6 to 14 mol %, which is shown
+in the bar chart of Figure 1B. Numbers after hyphen (HAC-g/c
+and HCA-g/c) represent the mol % of GPAm (g) and the mol
+% of CEAm (c).
+P(nBA), the diblock and final protected triblock copolymers
+were analyzed by size exclusion chromatography (SEC) to
+determine the experimental number-average molar masses
+(Mn,SEC) and Đ (Table 1 and Figure S8 and Table S6, SI).
+Exemplary, the SEC traces of HACpro-30/9 (cationic outer
+block), HCApro-31/9 (anionic outer block), and their
+precursors are shown in Figure 2. P(nBA)78 revealing a narrow
+molar mass distribution with Đ = 1.07, which shifted to higher
+molar masses after chain extension, while maintaining their
+monomodal and narrow character (Figure 2A). After the
+second chain extension with GPAmdiBoc, the population shifted
+to higher molar masses, revealing a tailing towards lower molar
+masses. This might be due to dead polymer chains caused by
+recombination throughout the block extensions and precursor
+chains that failed to reinitiate, resulting in a broadened molar
+mass distribution (Đ = 1.22).42 For the synthesis of HCApro-
+31/9, the first chain extension with GPAmdiBoc led to a
+broadened population with a slight tailing towards lower molar
+masses (Đ = 1.24; Figure 2B). After the subsequent chain
+extension with CEAmtB and NAM, the population shifted to
+higher molar masses and a more narrow dispersity (Đ = 1.21).
+The differences between experimental and theoretical number-
+Table 1. Overview of the Composition and Characterization of the Protected Triblock Copolymers.
+polymer code-g/ca
+compositionb
+Mn,theoc (kg mol−1)
+Mn,SECd (kg mol−1)
+Đd
+HACpro-34/6
+P[(nBA)78-b-(CEAmtB
+11-co-NAM35)-b-(GPAmdiBoc)65]
+41.5
+42.2
+1.20
+HACpro-30/9
+P[(nBA)78-b-(CEAmtB
+17-co-NAM37)-b-(GPAmdiBoc)56]
+39.6
+36.7
+1.22
+HACpro-34/14
+P[(nBA)80-b-(CEAmtB
+30-co-NAM30)-b-(GPAmdiBoc)72]
+47.4
+45.9
+1.24
+HCApro-37/6
+P[(nBA)78-b-(GPAmdiBoc)73-b-(CEAmtB
+11-co-NAM36)]
+44.6
+50.1
+1.29
+HCApro-31/9
+P[(nBA)78-b-(GPAmdiBoc)61-b-(CEAmtB
+17-co-NAM39)]
+41.7
+48.5
+1.21
+HCApro-33/13
+P[(nBA)80-b-(GPAmdiBoc)69-b-(CEAmtB
+27-co-NAM33)]
+46.1
+54.2
+1.19
+ag: mol % of GPAm, c: mol % of CEAm. bNumbers were determined via 1H NMR spectroscopy and represent the DP of each monomer.
+cCalculated using eq S2. dDetermined via SEC (eluent: DMAc + 0.21% LiCl; PMMA standard).
+Figure 2. SEC traces of P(nBA)78, precursors, and (A) HACpro-30/9 and (B) HCApro-31/9 (eluent: DMAc + 0.21% LiCl, PMMA-calibration).
+ACS Macro Letters
+pubs.acs.org/macroletters
+Letter
+https://doi.org/10.1021/acsmacrolett.3c00633
+ACS Macro Lett. 2024, 13, 158−165
+160
 
 
 
-European Polymer Journal 174 (2022) 111326
-3
-achieved by mixing two RAFT agents with vastly different chain transfer
-constants in various ratios.[24,25]
-Several other chemistry approaches have also been developed
-including Goto’s work in exploiting a small amount of a co-monomer
-during reversible complexation-mediated polymerization[13] and
-Chiu’s work on utilizing photochromic initiators in cationic polymeri­
-zation.[14] One common limitation of many of the aforementioned
-methodologies is the challenge of achieving dispersity control in block
-copolymers and multiblock copolymers.[48–52] Our group was able to
-circumvent this by recently reporting the synthesis of sequence-
-controlled multiblocks with on-demand control over dispersity.[53]
-The key to our approach was the regulation of the activity of the chain
-transfer agent during RAFT polymerization. In particular, we leveraged
-a switchable RAFT agent, also referred to as a universal RAFT agent
-[54–56], allowing access to dispersity control in both homopolymers
-and multiblock copolymers while also achieving near-quantitative
-yields and very high livingness.[53] However, the effect of the organic
-solvent and the degree of polymerization on the final dispersity has yet
-to be investigated, limiting the scope of our approach (Fig. 1).
-2. Results and discussion
-2.1. Effect of increasing the organic content concentration
-For the initial experiments, methyl 2-[methyl(4-pyridinyl) carba­
-mothioylthio]propionate was used as the switchable RAFT agent,
-dimethylacrylamide (DMA) as a model monomer, 2-2′-azobis[2-(2-imi­
-dazoline-2-yl)propane] dichloride (VA-044) as the free radical initiator
-and dimethylformamide (DMF) as the organic solvent. Although
-depending on the organic content, a different amount of VA-044 is
-required to achieve quantitative monomer conversion (Figure S1) (i.e.
-the higher the water content the less free radical initiator is needed
-[51,57]), we consistently employed 0.1 equivalents with respect to the
-RAFT agent for all polymerizations to allow for a more meaningful
-comparison. The targeted degree of polymerization (DP) was set at 200
-and the monomer concentration was fixed at 20 v/v.
-Under the aforementioned conditions, the first polymerization was
-conducted in pure aqueous media and in the absence of added acid, (i.e.
-sulphuric acid) a broad, yet monomodal, molar mass distribution (Mn =
-23,400, Ɖ=1.58) was obtained with good agreement between theoret­
-ical and experimental molecular weight (Fig. 2a). A near-quantitative
-conversion was reached within 2 h as evident by 1H nuclear magnetic
-resonance (NMR) spectroscopy and the chain transfer agent was fully
-consumed according to the size exclusion chromatography (SEC) UV-
-detector (Figure S2). Upon replicating the experiment, albeit with
-0.25 equivalents of sulphuric acid, the dispersity was decreased to 1.52,
-while further increases in the amount of added acid (0.5, 1 and 1.5
-equivalents) led to gradually lower Ɖs (1.35, 1.20 and 1.16, respec­
-tively, Fig. 2a, Table S1). It is noted that a slight excess of acid was
-required to fully protonate the RAFT agent and reach the minimum Ɖ
-value due to the presence of DMA which elevates the initial pH value to
-approximately 9–10 (prior to the addition of acid).[55,58]
-Switching from aqueous media to a mixture of [DMF]:[H2O] = 1:4
-led to comparable data, although a higher excess of acid (i.e. 3 equiv­
-alents) was required to attain the lowest possible Ɖ (Fig. 2b, Table S2).
-Instead, when the polymerizations were performed in mixtures of
-[DMF]:[H2O] = 1:1, a higher Ɖ (~1.70) could be obtained when the
-deprotonated RAFT agent was utilized (Fig. 2c, Table S3). As such, a
-broader Ɖ range was possible under these conditions (1.23–1.70), thus
-highlighting an advantage of employing formulations with increased
-organic content. However, when the DMF percentage was increased
-further ([DMF]:[H2O] = 4:1), the lowest Ɖ that could be achieved was
-1.31 (6 equivalents of acid) and no further decrease was possible
-regardless of the amount of added acid (e.g. up to 12 equivalents,
-Fig. 2d-f, Table S4). Nevertheless, by increasing the organic content we
-pave the way for the potential control over the Ɖ of more hydrophobic
-monomers, thus significantly expanding the scope of the developed
-system. It is noted that for all the higher Ɖs attained, successful in-situ
-chain-extension experiments were conducted, revealing that very high
-livingness could be maintained (see section entitled effect of various
-Fig. 3. The effect of acid concentration on dispersity at various degrees of polymerization. SEC traces illustrate syntheses with various amounts of acid for a) DP50,
-b) DP100, c) DP200 and d) DP400. Scatter plots illustrate the overall trends with dispersity changes plotted against e) target DP and f) acid concentration. All
-reactions were performed in 80% organic media.
-M.-N. Antonopoulou et al.
+average molar masses can be attributed to differences in
+hydrodynamic volume from the PMMA standards. Further-
+more, the kinetics of the copolymerization of CEAmtB and
+NAM were investigated by 1H NMR spectroscopy and SEC
+(Figures S9−S11, SI), indicating a controlled copolymerization
+process, which resulted in a slightly gradient structure due to
+the more reactive NAM. Both triblock copolymers were
+deprotected with trifluoroacetic acid (TFA) to expose the
+guanidinium and carboxy group. The deprotection was
+successful, since the peak of the Boc-/tert-butyl group at 1.5
+ppm vanished, obtaining the final deprotected HAC-g/c and
+HCA-g/c polymers (Figures S12−S14, SI).
+The triblock copolymers were assembled into micelles using
+the solvent exchange approach,12 where the polymers are first
+dissolved in a mixture of tetrahydrofuran/methanol (THF/
+MeOH 80/20 v/v%). Ultrapure water was added slowly,
+followed by dialysis against 20 mM sodium acetate buffer (pH
+5), generating micelles with a hydrophobic P(nBA) core and a
+hydrophilic shell. Since the guanidinium group is fully charged
+independent of the used pH-value (apparent pKa > 12),40 the
+pH-responsive element at physiological pH is the anionic block
+containing CEAm and NAM (apparent pKa(PCEAm) ≈
+5.1).31 At a pH of 5, only about half of the carboxy groups
+are charged, while at pH 7.4 almost all are charged (92%).
+Therefore, initial attempts to formulate the triblock micelles at
+physiological pH values failed and led to precipitation. At these
+pH values, both polymer blocks are highly charged and interact
+strongly, which might destabilize the triblock micelle solutions
+at the given elevated concentrations.
+Size investigations by dynamic light scattering (DLS)
+revealed a similar Z-average value of hydrodynamic size for
+all six triblock micelles under acidic conditions ranging from 25
+to 36 nm (Figure 3). The triblock micelles with a cationic
+outer block (HAC-34/6, -30/9, -34/14) showed monomodal
+size distributions with narrow polydispersity indices (PDIs)
+ranging from 0.1 to 0.2 (Figure 3, Figure S15, SI). In contrast,
+the triblock micelles with an anionic outer block (HCA-37/6,
+-31/9, -33/13) showed a bimodal intensity-weighted size
+distribution with increased PDIs (0.25−0.34), which was most
+prominent for HCA-33/13 (Figure S16, SI). Since cationic and
+anionic moieties were combined within the shell of the triblock
+micelles, an interpolyelectrolyte complex (IPEC) was expected
+to be formed in the shell.43 Thus, the micelles with a cationic
+outer block (HAC) formed more uniform micelles compared
+to the HCA micelles, containing CEAm and NAM in the outer
+shell.
+With the different micelles at hand, we now investigated the
+formation of micelleplexes using pDNA. In preliminary
+experiments, N*/P ratios (molar ratios of protonatable
+nitrogen atoms to phosphates of pDNA) of 20 and 3 μg
+mL−1 pDNA were found to be optimal to achieve high
+transfection efficiency and low toxicity. The complexation with
+the genetic material resulted in micelleplexes with sizes
+between 49 nm and 82 nm, which is still suitable for efficient
+cellular uptake by endocytosis, but larger than the initial
+micelles.44 The intensity-weighted size distributions were
+monomodal for most of the micelleplexes with a maximum
+PDI of 0.36 for HCA-33/13 (Figures S17 and S18, SI). The ζ-
+potentials of all micelles/micelleplexes were above 20 mV
+independent of the sequence, which can be attributed to the
+excess of protonated amines due to the higher molar ratio of
+cationic to anionic charges in the triblock micelles and the
+excess of polymer micelles used for the formulation.
+The cytotoxicity profiles of the polymer library were
+investigated via the PrestoBlue assay. Based on ISO10993−5,
+the mouse fibroblast cell line L929 was used. Figure 4A shows
+a decrease in metabolic activity with an increasing polymer
+concentration. The incorporation of stealth and anionic
+functionalities showed a positive effect on the cytocompati-
+bility of the micelles in comparison to the cationic
+homopolymer poly(GPAm)71 (Gua 100), which served as
+control. It should be noted that the cytocompatibility
+improved with increasing mol % content of CEAm, whereas
+the sequence had lower impact (HCA-33/13 vs HAC-34/14,
+LC50 in Table S7).
+At a physiological pH value, the guanidinium group is
+positively charged and tends to interact with serum proteins.
+Therefore, a serum-reduced medium D2H (Dulbecco’s
+modified eagle medium (DMEM) with 2% fetal bovine
+serum (FBS) and 10 mM 2-[4-(2-hydroxyethyl)piperazin-1-
+yl]ethanesulfonic acid (HEPES) buffer) was used for the
+transfection assays. To assess the effect of the triblock
+composition on gene delivery, additional transfection was
+performed in D10H (10% FBS), which is closer to
+physiological conditions. Due to the low serum concentration
+in D2H, higher transfection efficiencies could generally be
+achieved in comparison to D10H (Figure 4B: plot below,
+dashed bars vs colored bars).
+In the case of the more cytocompatible micelles with
+increased content of CEAm (HCA-30/9 and HCA-33/13), the
+HCA micelles demonstrated superior transfection efficiencies
+in D2H in comparison to the HAC micelles. The order of the
+blocks therefore was a decisive factor and an outer anionic
+block appeared to be beneficial for improved transfection
+efficiencies, while maintaining good cytocompatibility. For the
+micelles with only 6 mol % CEAm (HAC-34/6 and HCA-37/
+6) slightly higher transfection efficiencies were achieved for the
+Figure 3. (A) Z-Average, (B) PDI, and (C) ζ-potential of the triblock
+copolymer micelles and micelleplexes measured by DLS. Details can
+be found in the Supporting Information (Figures S15−S18).
+ACS Macro Letters
+pubs.acs.org/macroletters
+Letter
+https://doi.org/10.1021/acsmacrolett.3c00633
+ACS Macro Lett. 2024, 13, 158−165
+161
 
 
 
-European Polymer Journal 174 (2022) 111326
-4
-organic solvents).
-2.2. Effect of targeting various degrees of polymerization
-We were subsequently interested to study how the degree of poly­
-merization (DP) would affect the Ɖ control. In a series of experiments,
-we targeted polymers with a DP of 50, 100, 200 and 400.
-The first reactions were conducted in organic/aqueous mixtures with
-an increased organic content ([DMF]:[H2O] = 4:1) and the results are
-summarized in Fig. 3. For DP = 50 and DP = 100 (Fig. 3a-b, Table S5-6),
-Ɖ ranges of 1.15–1.56 and 1.19–1.68 were obtained, respectively, when
-all polymerizations had reached very high monomer conversions. As can
-be concluded from the previous section, when targeting DP = 200, the
-minimum Ɖ achieved was 1.31 (Ɖ range is 1.31–1.76, Fig. 3c, Table S4).
-However, for DP = 400 no satisfactorily control over Ɖ was possible. In
-particular, even when 12 equivalents of acid were employed, the Ɖ
-could not drop below 1.58, thus highlighting the limitations of the
-system to control Ɖ at higher DPs (Fig. 3d, Table S7). This was attributed
-to the nature of the solvent which does not allow for the sufficient
-protonation of the RAFT agent.[59,60] To bypass this, we sought to
-increase the monomer concentration from 20% v/v to 50% v/v and
-indeed by minimizing the solvent content, a lower Ɖ could be achieved
-when identical acid equivalents were employed (when using 6 equiva­
-lents of acid the lowest Ɖ at 20% v/v was 1.31 and the value was further
-decreased to 1.23 at 50% v/v monomer concentration, Figure S3a&c,
-Table S4&S8). To fully circumvent this issue, we replicated the experi­
-ments in aqueous media (at 20% v/v). Pleasingly, excellent Ɖ control
-could be achieved not only for DP = 50 and DP = 100 but also for DP =
-200, DP = 400 and DP = 800 (Figure S4, Tables S1&S10-13). More
-specifically, the higher the DP, the wider the Ɖ range that could be
-obtained while more equivalents of acid were required to achieve the
-lowest possible Ɖ. In addition, when the RAFT agent was unprotonated,
-[55,58,61] a higher Ɖ could be obtained for higher DPs. For instance, for
-DP = 50 the Ɖ range was relatively narrow (1.14–1.49), and the lowest
-Ɖ was obtained when 1 equivalent of sulphuric acid was utilized while
-the unprotonated RAFT agent led to a Ɖ of 1.49. Instead, for DP = 800, a
-broader Ɖ range was achieved (1.22–1.67), the lowest Ɖ was attained at
-much higher acid concentrations (i.e. > 6 equivalents) and in the
-absence of acid a much higher Ɖ was displayed (i.e. 1.67). It is therefore
-apparent that much better control over Ɖ can be achieved in pure
-aqueous media for various targeted DPs. It is also noted that in contrast
-to DMF, when higher monomer concentrations were employed in water,
-(e.g. 50% v/v instead of 20% v/v) slightly higher Ɖs were obtained
-(Figure S3b&d, Table S9).
-2.3. Effect of various organic solvents
-Given the limitation of DMF to satisfactorily lower polymer Ɖ, a
-range of alternative solvents were also explored. First, high Ð PDMA was
-prepared (DP20) in a range of different solvents -such as H2O, DMF,
-dimethylacetamide (DMAc), dimethyl sulfoxide (DMSO), acetonitrile
-(ACN) and dioxane- and matrix-assisted laser desorption ionization
-time-of-flight mass spectroscopy (MALDI-ToF-MS) was performed to
-investigate the chain end-group fidelity of the syntheses (Fig. 4d-f&S5d-
-f). Pleasingly, in all cases, a single polymeric species was evidenced,
-corresponding to CTA functionalized PDMA, albeit with Li+, Na+ and K+
-adducts. This indicates that high end-group fidelity could be achieved
-for all solvents, even when high dispersity values were targeted. We also
-highlight that in these syntheses very low concentrations of free radical
-initiator were utilized (<0.03 equivalents w.r.t RAFT agent), so these
-peaks were not visible in the MALDI-ToF-MS.
-We therefore selected these solvents, in turn, so to investigate the
-effect of adding acid on the dispersity range obtainable in each medium
-(Tables S14-19, Figure S5). In a similar fashion to DMF, DMAc failed to
-yield very low Ɖ values, as even at 24 equivalents of acid the minimum Ɖ
-achieved was 1.36 (Figure S5b, Table S14). It is also noted that when
-these two solvents were employed, in combination with high acid con­
-centrations (>2 equivalents), a side reaction could be detected via 1H
-NMR whereby sulphuric acid reacted with the solvent thus leading to
-solvent degradation (Figure S6-8). This side reaction and the chain
-transfer to solvent constant of DMF could also be, partially, responsible
-for the higher dispersities obtained.[62] However, it is worth
-Fig. 4. The effect of solvent choice on the dispersity of homopolymers at various acid concentrations. SEC traces illustrate syntheses of DP200 in a) 100% water, b)
-80:20 ACN: water and c) 80:20 DMF: water. The analogous MALDI-ToF-MS data illustrates the results for homopolymers (DP20) with high dispersity synthesized d)
-in water e) 80:20 ACN: water and f) 80:20 DMF: water. All polymers correspond to DMA capped with CTA (C7H7N2S2)(CH2CHCON(CH3)2)12(C4H7O2)).
-M.-N. Antonopoulou et al.
+HAC micelles compared to its counterpart (HCA micelle) in
+D2H. In this case, the CEAm content was probably too low to
+result in performance differences for different block arrange-
+ments.
+The transfection efficiencies in D10H were similar for both
+HAC-34/6 and HCA-37/6 and no significant differences in
+efficiency were observed between D2H and D10H (Figure 4B:
+plot above). Interestingly, HAC-34/14 and HCA-33/13
+demonstrated the highest transfection efficiency in D10H
+among all tested materials despite the highest anionic CEAm
+content in the outer shell (HCA-33/13), which is usually
+considered to reduce the efficacy of a system. This is in
+contrast to common design principles using the cationic block
+at the outside due to the enhanced accessability of cationic
+charges for the genetic material. As this result was not
+expected, the membrane interaction was investigated in more
+detail, where commonly cationic groups play a crucial role.
+These are presumably less present on the outside of HCA
+micelles (e.g., HCA-33/13), but micelles are known to be a
+dynamic system and interaction with the middle block cannot
+be excluded. A modified hemolysis assay demonstrated an
+alleviating hemolytic effect with increasing molar content of
+anionic moiety (Figure S22A). This could be attributed to an
+increasing charge compensation of the excess of cationic
+groups, which reduced the interaction of the micelles with the
+membrane at physiological conditions. If the pH value
+decreases, as for example during endosomal uptake, the
+carboxylic groups become protonated and the compensation
+is diminished, which was also exemplified in an enhanced
+erythrocyte aggregation rate at pH 6 compared to pH 7.4
+(Figure S22). This effect was particularly prominent for
+micelles with high anionic CEAm content (HAC-34/14 and
+HCA-33/13). Overall, the best performer HCA-33/13
+featured an optimal membrane interaction adapting to pH
+changes and high cytocompatibility, which together yielded
+high performances in transfection.
+To study the uptake and endosomal release property of the
+library, the membrane-impermeable dye calcein was used. The
+Figure 4. (A) PrestoBlue assay was performed over 24 h using D10H in the L929 cell line. (B) Transfection efficiencies were investigated in D2H
+(dashed bars) and D10H (colored bars) for 24 + 24 h in the HEK293T cell line at N*/P 20 using 3 μg mL−1 of EGFP expressing pDNA. Values
+represent mean ± SD (n ≥3). Significances are illustrated as p* > 0.05, p** > 0.01, p*** > 0.001.
+Figure 5. Endosomal release was analyzed via confocal laser scanning microscopy (CLSM) following simultaneous incubation with the non-
+permeable dye calcein with a final concentration of 25 μg mL−1 (green) and micelleplexes with N*/P 20 with a pDNA concentration of 3 μg mL−1
+on HEK293T cells over 6 h incubation in D10H and following incubation in D20 (6 + 2 h). The cell nuclei were stained with Hoechst 33342
+(blue). Green dots indicate endocytotic uptake of calcein within cellular compartments, and the diffuse green fluorescence pattern indicates calcein
+released to the cytosol. Non-treated and non-stained cells were used as the control.
+ACS Macro Letters
+pubs.acs.org/macroletters
+Letter
+https://doi.org/10.1021/acsmacrolett.3c00633
+ACS Macro Lett. 2024, 13, 158−165
+162
 
 
 
-European Polymer Journal 174 (2022) 111326
-5
-mentioning that despite the side reaction, very high livingness could be
-maintained in both solvents as evident by successful in-situ chain
-extension experiments (Figure S10, Table S19).
-Dimethyl sulfoxide (DMSO) was then selected as a solvent
-(Figure S5c, Table S15). Although no side reaction was found in this
-solvent, the lowest Ɖ achieved was 1.23 when 20 equivalents of sul­
-phuric acid were employed. Nevertheless, a broad Ɖ range could be
-targeted (1.23–1.79) thus revealing the potential of this solvent, espe­
-cially considering that DMSO is a medium in which both hydrophilic and
-relatively hydrophobic monomers are soluble.[63,64] Dioxane also
-proved to be a suitable solvent for Ɖ control resulting in a broad Ɖ range
-(1.17–1.86) while the lowest possible Ɖ was attained in the presence of 4
-equivalents of acid (Figure S5a, Table S16). Perhaps the most promising
-organic medium was ACN (Fig. 4b, Table S17) as in the presence of just 2
-equivalents of acid a Ɖ of 1.19 could be obtained. The total range ach­
-ieved was also relatively broad (1.19–1.66) therefore establishing ACN
-as an excellent alternative to aqueous media. For a more meaningful
-comparison with the other solvents, when 2 equivalents of acid were
-used very high Ɖs were achieved for DMAc and DMF (1.66 and 1.55
-respectively), while DMSO and dioxane led to much lower Ɖs (1.37 and
-1.29 respectively). As such, it can be concluded that both ACN and water
-are very successful in controlling the Ɖ of homopolymers at low acid
-concentrations. Free radical polymerizations were also performed in
-these solvents and the result shows the maximum achievable molar mass
-obtained exceeded 200 kDa in all cases, which is higher than that of
-high-dispersity polymers made in the presence of unprotonated RAFT
-agent, confirming the polymerization is controlled under RAFT mecha­
-nism (Figure S11 and Table S20). Indeed, it should be highlighted that in
-pure ACN (rather than in 80:20 ACN: H2O) just 0.5 equivalents of acid
-were required to obtain a final polymer with a dispersity as low as 1.25,
-further exemplifying ACN as an effective alternative to water (Figure S9,
-Table S18). These results show that in order to achieve similar dis­
-persities, various amounts of acid were required to achieve the same
-protonation degree of the RAFT agent in different solvents (Fig. 4a-c,
-Figure S5a-c, Table S1, S4, S14-S17). To correlate the protonation state
-of the switchable RAFT agent in different media (e.g., deuterated DMSO
-and D2O), the chemical shift of pyrinidyl ring hydrogen of the RAFT
-agent was characterized by 1H NMR spectra (Figure S12).[56] It is
-shown that in deuterated DMSO higher equivalents of acid was needed
-to protonate the RAFT agent than in D2O. Despite the high amounts of
-acid added, the RAFT agent is stable in organic solvent (DMSO‑d6) while
-a small amount (0.8%) of the ester bonds of the RAFT agent R group was
-hydrolyzed (Figure S13-S15). Importantly, the Z-group of the RAFT
-agent was not influenced by the acid and therefore the polymer living­
-ness was not affected (Figure S17 & Table S24).
-2.4. Synthesis of Ɖ–controlled diblock and triblock copolymers with
-varying degrees of polymerization
-After establishing optimal conditions to control Ɖ in homopolymers,
-we were interested in assessing how the DP of the added second block
-would affect the final Ɖ of the diblock. To study this, we first synthesized
-three homopolymers at various DPs using the deprotonated RAFT agent
-(i.e. DP 50, DP = 100, DP = 200). We then varied the amount of
-monomer added for the second block (aiming for the second block to be
-composed of either DP = 25, or DP = 50, or DP = 100 or DP = 200) while
-utilizing an excess of acid which would enable the sufficient switch to a
-fully protonated macroCTA (Fig. 5, Table S21). In particular, when
-starting from a relatively low DP for the first block (DP = 50, initial Ɖ
-~1.50), the in-situ addition of DP = 25 or DP = 50 already led to a
-Fig. 5. The effect of the DP of the second block on the overall dispersity of diblock copolymers prepared by RAFT polymerization. In all cases the reactions were
-performed in pure water, with the CTA unprotonated for the first block and fully protonated for the second block. The DP of the first block was varied between 50 and
-200 and the DP of the second block was varied between 25 and 200. In all plots, the x-axis represents the molecular weight and the y-axis represents normalized dw/
-dlogM as obtained by SEC.
-M.-N. Antonopoulou et al.
-
-
-
-European Polymer Journal 174 (2022) 111326
-6
-significant decrease in the overall Ɖ of the diblock resulting in a final Ɖ
-of 1.32 and 1.21, respectively. By further increasing the DP of the second
-block to DP = 100 and DP = 200 even clearer shifts were observed by
-SEC and the Ɖ of the diblock was reduced to 1.17 and 1.16, respectively.
-Therefore, it can be concluded that a macroCTA of DP = 50 can be
-satisfactorily chain-extended to yield diblocks with narrow molar mass
-distributions upon the addition of a minimum DP of 50. A slightly
-different profile was observed when a macroCTA of DP = 100 (Ɖ=1.58)
-was employed. On this occasion, neither the addition of DP = 25 nor DP
-= 50 could dramatically reduce the Ɖ (Ɖ=1.41 and Ɖ =1.32, respec­
-tively). However, when the DP of the second block was increased to DP
-= 100 and DP = 200, narrow molar mass distributions could be obtained
-yielding diblocks with a Ɖ of 1.23 and 1.17 respectively. Upon repli­
-cating the experiments utilizing a DP = 200 macroCTA (Ɖ=1.59), we
-found that a diblock with Ɖ ~1.22 was only possible when 200 equiv­
-alents of monomers were added. Instead, upon targeting DP = 25, DP =
-50 and DP = 100 for the second block, only higher overall Ɖ diblock
-copolymers could be prepared (Ɖ=1.49, Ɖ=1.40 and Ɖ=1.30). From
-these experiments we can conclude the following:
-(i) The targeted DP of the second block can significantly affect the
-final Ɖ in diblock copolymers.
-(ii) The higher the DP of the added block, the lower the Ɖ of the
-diblock.
-(iii) The higher the DP of the starting macroCTA, the more monomer
-is required to be added to bring the overall Ɖ of the diblock down
-to ~ 1.2. This suggests that the efficient protonation of the
-macroCTA alone is not sufficient to control polymer Ɖ and that
-the length of the added block should also be considered.
-(iv) To target diblock copolymers with a wide range of Ɖ (i.e. a large
-difference between the dispersity of the homopolymers and the
-diblock copolymer), the length of the added block should be
-equal or higher to the length of the macroCTA (i.e. DPadded block ≥
-DPmacroCTA). To verify this was also the case for DP = 200, we did
-a control experiment whereby 300 equivalents of monomer were
-added during the in-situ chain extension and the overall Ɖ of the
-diblock could be further decreased to 1.19 (Figure S16,
-Table S22).
-Last, but not least, we applied the acquired knowledge in designing
-two triblock copolymers with alternating low and high Ɖ in both
-aqueous and organic media (ACN). Specifically, by using the fully pro­
-tonated RAFT agent, a homopolymer with a Ɖ of 1.17 (DP = 50) was first
-obtained. Upon adding 75 equivalents of the next monomer and in the
-presence of a base, we were able to increase the overall Ɖ of the diblock
-to 1.53 (Fig. 6, Figure S17, Table S23). Once the diblock reached
-quantitative monomer conversion, we added the next monomer together
-with acid and brought the Ɖ of the triblock down to 1.19. Pleasingly,
-very similar data could be attained in both solvent systems leading to
-well-defined triblock copolymers with remarkable control over their Ɖ
-(Fig. 6, Figure S17, Table S24).
+endocytotic uptake of the particles leads to the concurrent
+internalization of calcein (punctuate fluorescence pattern), and
+the endosomal release leads to release of calcein (broad
+cytosolic fluorescence pattern). In full growth medium
+(D10H), all polymers revealed a fast uptake after 6 h
+incubation in comparison to the non-complexed pDNA
+(Figures S19−S20, SI). A broad cytosolic fluorescence pattern
+of several cells could be observed by the micelleplexes with the
+highest anionic CEAm content (HAC-34/14 and HCA-33/
+13). A further 2 h incubation (total incubation time of 8 h, 6 +
+2 h) led to increased endosomal release with the following
+intensity pattern: HAC-34/14 > HCA-33/13 > HCA-31/9 and
+HCA-37/6. The result revealed an improved endosomal
+release by an increase of the CEAm content and underlined
+the impact of the anionic CEAm block. However, the HAC
+micelle showed more intensive calcein release in comparison to
+the HCA composition (HAC 34/14 vs HCA-33/13), which
+both outperform micelles with lower CEAm content or the
+Gua 100 control (Figure 5).
